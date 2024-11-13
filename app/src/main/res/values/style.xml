@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="custom_button_style" parent="@style/Widget.MaterialComponents.TimePicker.ImageButton">
+
+        <item name="android:background">@drawable/oval_button_background</item>
+        <item name="android:padding">8dp</item>
+
+    </style>
+
+
+
+</resources>
